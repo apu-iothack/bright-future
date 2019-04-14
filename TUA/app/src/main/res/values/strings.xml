@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TUA</string>
+    <string name="name1">name</string>
+    <string name="name2">name</string>
+    <string name="password">password</string>
+    <string name="_00_00">00:00</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="button3">Button</string>
+    <string name="button4">Button</string>
+    <string name="textview">TextView</string>
+    <string name="tpnumber">TPNumber</string>
+    <string name="login_id">Login ID</string>
+    <string name="login">Login</string>
+    <string name="question_of">Question ?? of ??</string>
+    <string name="background">background</string>
+    <string name="input_question_here"><![CDATA[<Input question here>]]></string>
+    <string name="answer_a"><![CDATA[<Answer A>]]></string>
+    <string name="answer_b"><![CDATA[<Answer B>]]></string>
+    <string name="answer_c"><![CDATA[<Answer C>]]></string>
+    <string name="answer_d"><![CDATA[<Answer D>]]></string>
+    <string name="timesup_for_demo_purpose">TimesUp (For demo purpose)</string>
+    <string name="disconnected_for_demo_purpose">Disconnected (For Demo Purpose)</string>
+    <string name="tap_anywhere_to_exit">(TAP ANYWHERE TO EXIT)</string>
+    <string name="deploy_test">Deploy Test</string>
+    <string name="to_virtual_classroom_for_demo_only">To Virtual Classroom (FOR DEMO ONLY)</string>
+    <string name="a">:</string>
+    <string name="_00">00</string>
+    <string name="successful_for_demo_purpose">SUCCESSFUL (FOR DEMO PURPOSE)</string>
+</resources>
